@@ -1,0 +1,4 @@
+Factory design pattern is used when we want to create objects of a class based on some condition.
+
+In case factory design pattern is not used we might end up having conditional statements in a multiple classes
+to instaniate objects.
