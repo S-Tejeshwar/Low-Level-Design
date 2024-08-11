@@ -1,0 +1,2 @@
+Strategy Design Patterns are used when the child class at the same level overrides the method in
+the parent class with the same logic which causes code duplication.
