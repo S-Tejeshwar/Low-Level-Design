@@ -1,0 +1,4 @@
+Used for remote control applications/ file editing applications where we perform some action and expect
+the application to behave in a certain way.
+
+By segregating invokers and client we ensure abstraction.
