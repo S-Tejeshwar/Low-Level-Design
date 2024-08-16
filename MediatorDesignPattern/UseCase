@@ -1,0 +1,3 @@
+Used when communication happens via a mediator.
+
+I have designed ipl auction service using this pattern where the auctioner notifies other teams about the bids.
